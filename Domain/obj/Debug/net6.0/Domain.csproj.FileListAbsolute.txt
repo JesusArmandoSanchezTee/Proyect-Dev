@@ -1,0 +1,126 @@
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\Upqroo\OneDrive - Universidad Politécnica de Quintana Roo\Escritorio\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\pc-trasversal\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Upqroo\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Upqroo\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\Upqroo\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Upqroo\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Upqroo\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Upqroo\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Upqroo\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Upqroo\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Upqroo\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Upqroo\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Upqroo\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\Upqroo\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\braga\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\braga\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\braga\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\braga\Desktop\Proyecto 25 AM actualizado xd\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\braga\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\braga\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braga\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\braga\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\braga\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\braga\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\braga\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\braga\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\braga\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\braga\Desktop\Proyecto 25 AM actualizado xd\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+D:\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.dll
+D:\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.dll
+D:\Proyecto25AM-S\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+D:\Proyecto25AM-S\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Upqroo\Desktop\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Upqroo\Desktop\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\Upqroo\Desktop\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Upqroo\Desktop\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Upqroo\Desktop\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Upqroo\Desktop\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\Desktop\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Upqroo\Desktop\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Upqroo\Desktop\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\Desktop\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Upqroo\Desktop\Proyecto25AM-S\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Upqroo\Desktop\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Upqroo\Desktop\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\Upqroo\Desktop\Proyecto25AM-S\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\jesus\OneDrive\Escritorio\h\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\jesus\OneDrive\Escritorio\h\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\jesus\OneDrive\Escritorio\h\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\jesus\OneDrive\Escritorio\h\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\jesus\OneDrive\Escritorio\h\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\h\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\OneDrive\Escritorio\h\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\h\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\jesus\OneDrive\Escritorio\h\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\h\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\jesus\OneDrive\Escritorio\h\Proyecto25AM-S\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\jesus\OneDrive\Escritorio\h\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\jesus\OneDrive\Escritorio\h\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\jesus\OneDrive\Escritorio\h\Proyecto25AM-S\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\jesus\OneDrive\Escritorio\Proyecto-Majo\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\jesus\OneDrive\Escritorio\Proyecto-Majo\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\jesus\OneDrive\Escritorio\Proyecto-Majo\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\jesus\OneDrive\Escritorio\Proyecto-Majo\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\jesus\OneDrive\Escritorio\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\OneDrive\Escritorio\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\jesus\OneDrive\Escritorio\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\jesus\OneDrive\Escritorio\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\jesus\OneDrive\Escritorio\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\jesus\OneDrive\Escritorio\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\jesus\OneDrive\Escritorio\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\jesus\source\repos\Proyecto-Majo\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\jesus\source\repos\Proyecto-Majo\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\jesus\source\repos\Proyecto-Majo\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\jesus\source\repos\Proyecto-Majo\Proyecto25AM-S\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\jesus\source\repos\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\source\repos\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\jesus\source\repos\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\jesus\source\repos\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\jesus\source\repos\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\jesus\source\repos\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\jesus\source\repos\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\jesus\source\repos\Proyecto-Majo\Proyecto25AM-S\Domain\obj\Debug\net6.0\ref\Domain.dll
