@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Proyecto25AM"
+    "\\Domain",
+    "\\Domain\\Dto",
+    "\\Proyecto25AM",
+    "\\Proyecto25AM\\Controllers"
   ],
-  "SelectedNode": "\\Proyecto25AM\\Proyecto25AM.sln",
+  "SelectedNode": "\\Proyecto25AM\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

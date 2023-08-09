@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dtg5tLZSQyU8bDLKAPgZrjPgDINdrl/3/kXtg8RORxvYACKn8WSiUQ2gm1ywFZz5BZC/LKvZf7hlrSavnJtEqQ==",
+  "dgSpecHash": "TyQpdh8Rv3Mcc7jVzPiFkHMNNPAdz28pgtRz8bJ+Uv12HADTG/ExhDgGPpspHUhMB+jJGxthwNTZldU5sqBhQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jesus\\source\\repos\\Proyecto-Majo\\Proyecto25AM-S\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\jesus\\source\\repos\\Proyecto-Dev\\Proyecto25AM-S\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jesus\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\jesus\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

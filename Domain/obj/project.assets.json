@@ -3516,11 +3516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jesus\\source\\repos\\Proyecto-Majo\\Proyecto25AM-S\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\jesus\\source\\repos\\Proyecto-Dev\\Proyecto25AM-S\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\jesus\\source\\repos\\Proyecto-Majo\\Proyecto25AM-S\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\jesus\\source\\repos\\Proyecto-Dev\\Proyecto25AM-S\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jesus\\source\\repos\\Proyecto-Majo\\Proyecto25AM-S\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\jesus\\source\\repos\\Proyecto-Dev\\Proyecto25AM-S\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
